@@ -1,0 +1,28 @@
+﻿Build started 3/1/2023 9:27:14 AM.
+     1>Project "B:\git\Xbox360HelloWorld\DirectX9_Xbox360\DirectX9_Xbox360.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\DirectX9_Xbox360.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _DEBUG /D _XBOX /GF- /Gm /MTd /GS- /Gy- /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP GameMain.cpp Gamepad.cpp Main.cpp /callcap /FI"C:\Program Files (x86)\Microsoft Xbox 360 SDK\\include\xbox\xbox_intellisense_platform.h"
+         Main.cpp
+         Gamepad.cpp
+         GameMain.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\link.exe /ERRORREPORT:PROMPT /OUT:"B:\git\Xbox360HelloWorld\DirectX9_Xbox360\Debug\DirectX9_Xbox360.exe" /INCREMENTAL /NOLOGO xapilibd.lib d3d9d.lib d3dx9d.lib xgraphicsd.lib xboxkrnl.lib xnetd.lib xaudiod2.lib xactd3.lib x3daudiod.lib xmcored.lib xbdm.lib vcompd.lib /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"B:\git\Xbox360HelloWorld\DirectX9_Xbox360\Debug\DirectX9_Xbox360.pdb" /STACK:"262144","262144" /TLBID:1 /IMPLIB:"B:\git\Xbox360HelloWorld\DirectX9_Xbox360\Debug\DirectX9_Xbox360.lib" Debug\GameMain.obj
+         Debug\Gamepad.obj
+         Debug\Main.obj /XEX:NO
+         LINK : B:\git\Xbox360HelloWorld\DirectX9_Xbox360\Debug\DirectX9_Xbox360.exe not found or not built by the last incremental link; performing full link
+       ImageXex:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\imagexex.exe /out:"B:\git\Xbox360HelloWorld\DirectX9_Xbox360\Debug\DirectX9_Xbox360.xex" "B:\git\Xbox360HelloWorld\DirectX9_Xbox360\Debug\DirectX9_Xbox360.exe" 
+         Microsoft(R) Xbox 360 Image File Builder Version 2.0.21256.0
+         (c)2012 Microsoft Corporation. All rights reserved.
+         
+       FinalizeBuildStatus:
+         Deleting file "Debug\DirectX9_Xbox360.unsuccessfulbuild".
+         Touching "Debug\DirectX9_Xbox360.lastbuildstate".
+     1>Done Building Project "B:\git\Xbox360HelloWorld\DirectX9_Xbox360\DirectX9_Xbox360.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.91

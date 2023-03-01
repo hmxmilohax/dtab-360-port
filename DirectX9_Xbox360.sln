@@ -15,8 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{21CAE813-94DD-4E3A-82CA-006D9B91B8F3}.CodeAnalysis|Xbox 360.ActiveCfg = CodeAnalysis|Xbox 360
 		{21CAE813-94DD-4E3A-82CA-006D9B91B8F3}.CodeAnalysis|Xbox 360.Build.0 = CodeAnalysis|Xbox 360
-		{21CAE813-94DD-4E3A-82CA-006D9B91B8F3}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
-		{21CAE813-94DD-4E3A-82CA-006D9B91B8F3}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{21CAE813-94DD-4E3A-82CA-006D9B91B8F3}.Debug|Xbox 360.ActiveCfg = Release_LTCG|Xbox 360
+		{21CAE813-94DD-4E3A-82CA-006D9B91B8F3}.Debug|Xbox 360.Build.0 = Release_LTCG|Xbox 360
 		{21CAE813-94DD-4E3A-82CA-006D9B91B8F3}.Profile_FastCap|Xbox 360.ActiveCfg = Profile_FastCap|Xbox 360
 		{21CAE813-94DD-4E3A-82CA-006D9B91B8F3}.Profile_FastCap|Xbox 360.Build.0 = Profile_FastCap|Xbox 360
 		{21CAE813-94DD-4E3A-82CA-006D9B91B8F3}.Profile|Xbox 360.ActiveCfg = Profile|Xbox 360
