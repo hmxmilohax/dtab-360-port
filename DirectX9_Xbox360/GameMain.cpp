@@ -64,7 +64,7 @@ void GameMain::Render()
 	XuiRenderBegin(g_hDC, D3DCOLOR_ARGB(255, 0, 255, 0));
 
 	// Tells Direct X where and what text to render to the Screen.
-	DrawText(m_GameMain->g_hDC, m_GameMain->g_pFont, D3DCOLOR_ARGB(255, 255, 255, 255)/*Text color*/, 600/*X*/, 300/*Y*/, L"Hello World");
+	DrawText(m_GameMain->g_hDC, m_GameMain->g_pFont, D3DCOLOR_ARGB(255, 0, 255, 0)/*Text color*/, 100/*X*/, 600/*Y*/, L"DTAB 360");
 	
 	// Some matrix shit I don't understand why I need yet...
 	D3DXMATRIX matView;
